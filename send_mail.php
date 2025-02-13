@@ -20,7 +20,7 @@ try {
 
     //Recipients
     $mail->setFrom('akashdarock@gmail.com', 'Mailer');         //Set the sender of the message (your email address)
-    $mail->addAddress('tantannie005@gmail.com', 'Joe User');     //Add a recipient (your bae's email address)
+    $mail->addAddress('2405785@kiit.ac.in', 'Joe User');     //Add a recipient (your bae's email address)
 
     //Content
     $mail->isHTML(true);
